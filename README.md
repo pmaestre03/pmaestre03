@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-Saludos a todos, me presento como Pau Maestre Fernandez, un joven de 20 años inmerso en el segundo año del grado superior de desarrollo de aplicaciones web. Además de dedicar tiempo a mis estudios, desempeño labores como celador en el Hospital Universitario de Bellvitge, donde contribuyo al funcionamiento eficiente del hospital y al confort de los pacientes.
+Saludos a todos, me llamo Pau Maestre Fernandez, un joven de 20 años inmerso en el segundo año del grado superior de desarrollo de aplicaciones web. Además de dedicar tiempo a mis estudios, desempeño labores como celador en el Hospital Universitario de Bellvitge, donde contribuyo al funcionamiento eficiente del hospital y al confort de los pacientes.
 
 Fuera del ámbito académico y laboral, encuentro placer en explorar el mundo de los videojuegos, buscando nuevas experiencias para desconectar y disfrutar. También, soy un entusiasta de las series y películas, destacando mi pasión por la saga de Star Wars. Los mundos galácticos y sus emblemáticos personajes han dejado una huella profunda en mi aprecio por el cine. Estoy ansioso por continuar creciendo tanto en el desarrollo de aplicaciones web como en mis intereses personales. ¡Hasta pronto!
 
