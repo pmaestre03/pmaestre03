@@ -4,7 +4,9 @@ Saludos a todos, me llamo Pau Maestre Fernandez, un joven de 20 años inmerso en
 Fuera del ámbito académico y laboral, encuentro placer en explorar el mundo de los videojuegos, buscando nuevas experiencias para desconectar y disfrutar. También, soy un entusiasta de las series y películas, destacando mi pasión por la saga de Star Wars. Los mundos galácticos y sus emblemáticos personajes han dejado una huella profunda en mi aprecio por el cine. Estoy ansioso por continuar creciendo tanto en el desarrollo de aplicaciones web como en mis intereses personales. ¡Hasta pronto!
 
 ## 📞 Contacto:
-- Discord: [![paumafe](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/paumafe) 
+¡No dudes en ponerte en contacto conmigo si tienes alguna pregunta o sugerencia!
+
+- Discord: `paumafe`
 - Correo Electrónico: [maestrep15@gmail.com](mailto:maestrep15@gmail.com)
 
 ## 🌐 Donde encontrarme:
