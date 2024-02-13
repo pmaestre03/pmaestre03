@@ -8,7 +8,7 @@ Fuera del ámbito académico y laboral, encuentro placer en explorar el mundo de
 - Correo Electrónico: [maestrep15@gmail.com](mailto:maestrep15@gmail.com)
 
 ## 🌐 Donde encontrarme:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pau-maestre-fernandez) \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pau-maestre-fernandez) 
 [![Sitio Web](https://img.shields.io/badge/Portfolio-000?logo=Bitbucket&logoColor=yellow)](https://paumaestrefernandez.netlify.app/)
 
 # 💻 Tecnologías:
